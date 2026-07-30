@@ -1,240 +1,218 @@
 {
  "hp": {
   "fairmilehead": {
-   "hero": "hp-fairmilehead-hero.jpg",
-   "heroSrc": 105,
    "body": [
     "hp-fairmilehead-1.jpg",
     "hp-fairmilehead-2.jpg",
     "hp-fairmilehead-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     46,
+     62,
+     161
+    ],
+    [
+     51,
+     155
+    ],
+    [
+     139,
      176
-    ],
-    [
-     155,
-     196
-    ],
-    [
-     84,
-     106
     ]
    ]
   },
   "bridge-of-allan": {
-   "hero": "hp-bridge-of-allan-hero.jpg",
-   "heroSrc": 110,
    "body": [
     "hp-bridge-of-allan-1.jpg",
     "hp-bridge-of-allan-2.jpg",
     "hp-bridge-of-allan-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     62,
-     82
+     84,
+     187
     ],
     [
-     176,
-     185
+     167,
+     180
     ],
     [
-     54,
-     192
+     64,
+     179
     ]
    ]
   },
   "dunblane": {
-   "hero": "hp-dunblane-hero.jpg",
-   "heroSrc": 84,
    "body": [
     "hp-dunblane-1.jpg",
     "hp-dunblane-2.jpg",
     "hp-dunblane-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     75,
-     155
+     57,
+     167
     ],
     [
-     46,
-     110
+     64,
+     176
     ],
     [
-     71,
-     105
+     73,
+     192
     ]
    ]
   },
   "linlithgow": {
-   "hero": "hp-linlithgow-hero.jpg",
-   "heroSrc": 104,
    "body": [
     "hp-linlithgow-1.jpg",
     "hp-linlithgow-2.jpg",
     "hp-linlithgow-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     52,
-     64
-    ],
-    [
-     70,
+     60,
      78
     ],
     [
-     75,
-     185
+     54,
+     79
+    ],
+    [
+     54,
+     84
     ]
    ]
   },
   "kilmacolm": {
-   "hero": "hp-kilmacolm-hero.jpg",
-   "heroSrc": 179,
    "body": [
     "hp-kilmacolm-1.jpg",
     "hp-kilmacolm-2.jpg",
     "hp-kilmacolm-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     71,
-     204
+     109,
+     196
     ],
     [
-     58,
-     59
+     139,
+     185
     ],
     [
-     79,
-     110
+     103,
+     105
     ]
    ]
   },
   "bridge-of-weir": {
-   "hero": "hp-bridge-of-weir-hero.jpg",
-   "heroSrc": 190,
    "body": [
     "hp-bridge-of-weir-1.jpg",
     "hp-bridge-of-weir-2.jpg",
     "hp-bridge-of-weir-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     54,
-     75
+     51,
+     104
     ],
     [
-     139,
-     144
+     71,
+     85
     ],
     [
-     192,
-     196
+     198,
+     208
     ]
    ]
   },
   "north-berwick": {
-   "hero": "hp-north-berwick-hero.jpg",
-   "heroSrc": 192,
    "body": [
     "hp-north-berwick-1.jpg",
     "hp-north-berwick-2.jpg",
     "hp-north-berwick-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
+    [
+     99,
+     155
+    ],
+    [
+     53,
+     196
+    ],
     [
      82,
-     144
-    ],
-    [
-     59,
-     76
-    ],
-    [
-     78,
-     104
+     188
     ]
    ]
   },
   "kirkintilloch": {
-   "hero": "hp-kirkintilloch-hero.jpg",
-   "heroSrc": 106,
    "body": [
     "hp-kirkintilloch-1.jpg",
     "hp-kirkintilloch-2.jpg",
     "hp-kirkintilloch-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     180,
-     181
+     77,
+     144
     ],
     [
-     58,
-     82
+     167,
+     196
     ],
     [
-     75,
-     85
+     185,
+     190
     ]
    ]
   },
   "eaglesham": {
-   "hero": "hp-eaglesham-hero.jpg",
-   "heroSrc": 187,
    "body": [
     "hp-eaglesham-1.jpg",
     "hp-eaglesham-2.jpg",
     "hp-eaglesham-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     54,
-     179
+     64,
+     105
     ],
     [
-     71,
-     174
+     53,
+     79
     ],
     [
-     60,
-     144
+     96,
+     208
     ]
    ]
   },
   "cambuslang": {
-   "hero": "hp-cambuslang-hero.jpg",
-   "heroSrc": 139,
    "body": [
     "hp-cambuslang-1.jpg",
     "hp-cambuslang-2.jpg",
     "hp-cambuslang-3.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     96,
-     106
+     78,
+     196
     ],
     [
-     53,
-     181
+     78,
+     167
     ],
     [
      181,
-     188
+     209
     ]
    ]
   }
  },
  "solar": {
   "broomhill": {
-   "hero": "sol-broomhill-hero.jpg",
-   "heroSrc": 4,
    "body": [
     "sol-broomhill-1.jpg",
     "sol-broomhill-2.jpg",
@@ -242,32 +220,30 @@
     "sol-broomhill-4.jpg",
     "sol-broomhill-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     38,
-     157
+     43,
+     66
     ],
     [
-     124,
-     158
+     0,
+     162
     ],
     [
      43,
-     123
+     67
     ],
     [
-     65,
-     123
+     38,
+     66
     ],
     [
-     67,
-     158
+     43,
+     121
     ]
    ]
   },
   "comely-bank": {
-   "hero": "sol-comely-bank-hero.jpg",
-   "heroSrc": 36,
    "body": [
     "sol-comely-bank-1.jpg",
     "sol-comely-bank-2.jpg",
@@ -275,32 +251,30 @@
     "sol-comely-bank-4.jpg",
     "sol-comely-bank-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     44,
-     124
+     39,
+     40
     ],
     [
-     66,
-     119
-    ],
-    [
-     66,
-     122
+     5,
+     72
     ],
     [
      37,
-     67
+     90
     ],
     [
-     43,
-     119
+     0,
+     37
+    ],
+    [
+     66,
+     158
     ]
    ]
   },
   "east-kilbride": {
-   "hero": "sol-east-kilbride-hero.jpg",
-   "heroSrc": 39,
    "body": [
     "sol-east-kilbride-1.jpg",
     "sol-east-kilbride-2.jpg",
@@ -308,32 +282,30 @@
     "sol-east-kilbride-4.jpg",
     "sol-east-kilbride-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     66,
-     67
+     1,
+     122
     ],
     [
-     72,
-     119
+     119,
+     122
     ],
     [
-     40,
+     5,
      158
     ],
     [
-     67,
-     90
+     1,
+     44
     ],
     [
      36,
-     66
+     120
     ]
    ]
   },
   "newlands": {
-   "hero": "sol-newlands-hero.jpg",
-   "heroSrc": 5,
    "body": [
     "sol-newlands-1.jpg",
     "sol-newlands-2.jpg",
@@ -341,32 +313,30 @@
     "sol-newlands-4.jpg",
     "sol-newlands-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     5,
-     124
+     67,
+     157
     ],
     [
-     38,
-     66
+     121,
+     122
     ],
     [
-     6,
-     37
+     4,
+     162
     ],
     [
-     0,
-     5
+     4,
+     158
     ],
     [
-     32,
-     36
+     65,
+     67
     ]
    ]
   },
   "uddingston": {
-   "hero": "sol-uddingston-hero.jpg",
-   "heroSrc": 40,
    "body": [
     "sol-uddingston-1.jpg",
     "sol-uddingston-2.jpg",
@@ -374,32 +344,30 @@
     "sol-uddingston-4.jpg",
     "sol-uddingston-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     1,
-     65
+     37,
+     68
     ],
     [
-     122,
-     158
-    ],
-    [
-     68,
-     123
-    ],
-    [
-     4,
+     37,
      162
     ],
     [
-     0,
-     120
+     43,
+     158
+    ],
+    [
+     158,
+     162
+    ],
+    [
+     37,
+     38
     ]
    ]
   },
   "bridge-of-allan": {
-   "hero": "sol-bridge-of-allan-hero.jpg",
-   "heroSrc": 43,
    "body": [
     "sol-bridge-of-allan-1.jpg",
     "sol-bridge-of-allan-2.jpg",
@@ -407,32 +375,30 @@
     "sol-bridge-of-allan-4.jpg",
     "sol-bridge-of-allan-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     90,
-     162
+     4,
+     119
     ],
     [
-     1,
-     43
-    ],
-    [
-     6,
-     43
+     67,
+     121
     ],
     [
      37,
-     38
+     72
     ],
     [
-     5,
-     119
+     72,
+     122
+    ],
+    [
+     32,
+     66
     ]
    ]
   },
   "linlithgow": {
-   "hero": "sol-linlithgow-hero.jpg",
-   "heroSrc": 0,
    "body": [
     "sol-linlithgow-1.jpg",
     "sol-linlithgow-2.jpg",
@@ -440,32 +406,30 @@
     "sol-linlithgow-4.jpg",
     "sol-linlithgow-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     6,
-     162
-    ],
-    [
-     66,
-     121
-    ],
-    [
-     66,
+     32,
      158
     ],
     [
      39,
-     122
+     43
     ],
     [
-     65,
+     36,
+     66
+    ],
+    [
+     38,
+     39
+    ],
+    [
+     4,
      90
     ]
    ]
   },
   "kilmacolm": {
-   "hero": "sol-kilmacolm-hero.jpg",
-   "heroSrc": 90,
    "body": [
     "sol-kilmacolm-1.jpg",
     "sol-kilmacolm-2.jpg",
@@ -473,32 +437,30 @@
     "sol-kilmacolm-4.jpg",
     "sol-kilmacolm-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     38,
-     39
+     157,
+     162
     ],
     [
-     37,
-     120
-    ],
-    [
-     5,
-     66
-    ],
-    [
-     1,
-     122
-    ],
-    [
-     67,
+     72,
      157
+    ],
+    [
+     40,
+     72
+    ],
+    [
+     65,
+     121
+    ],
+    [
+     43,
+     90
     ]
    ]
   },
   "bridge-of-weir": {
-   "hero": "sol-bridge-of-weir-hero.jpg",
-   "heroSrc": 44,
    "body": [
     "sol-bridge-of-weir-1.jpg",
     "sol-bridge-of-weir-2.jpg",
@@ -506,32 +468,30 @@
     "sol-bridge-of-weir-4.jpg",
     "sol-bridge-of-weir-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     39,
-     66
+     122,
+     157
     ],
     [
-     1,
-     158
+     4,
+     44
     ],
     [
-     0,
-     67
+     72,
+     124
     ],
     [
-     157,
-     158
+     43,
+     44
     ],
     [
-     44,
-     65
+     120,
+     162
     ]
    ]
   },
   "north-berwick": {
-   "hero": "sol-north-berwick-hero.jpg",
-   "heroSrc": 119,
    "body": [
     "sol-north-berwick-1.jpg",
     "sol-north-berwick-2.jpg",
@@ -539,26 +499,26 @@
     "sol-north-berwick-4.jpg",
     "sol-north-berwick-5.jpg"
    ],
-   "bodySrc": [
+   "src": [
     [
-     36,
-     121
+     4,
+     65
     ],
     [
-     90,
-     157
-    ],
-    [
-     44,
+     0,
      123
     ],
     [
-     120,
-     162
+     37,
+     119
     ],
     [
-     122,
-     162
+     40,
+     158
+    ],
+    [
+     0,
+     122
     ]
    ]
   }
