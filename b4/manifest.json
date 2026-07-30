@@ -2,7 +2,7 @@
  "hp": {
   "fairmilehead": {
    "hero": "hp-fairmilehead-hero.jpg",
-   "heroSrc": 85,
+   "heroSrc": 105,
    "body": [
     "hp-fairmilehead-1.jpg",
     "hp-fairmilehead-2.jpg",
@@ -25,7 +25,7 @@
   },
   "bridge-of-allan": {
    "hero": "hp-bridge-of-allan-hero.jpg",
-   "heroSrc": 52,
+   "heroSrc": 110,
    "body": [
     "hp-bridge-of-allan-1.jpg",
     "hp-bridge-of-allan-2.jpg",
@@ -48,7 +48,7 @@
   },
   "dunblane": {
    "hero": "hp-dunblane-hero.jpg",
-   "heroSrc": 192,
+   "heroSrc": 84,
    "body": [
     "hp-dunblane-1.jpg",
     "hp-dunblane-2.jpg",
@@ -71,7 +71,7 @@
   },
   "linlithgow": {
    "hero": "hp-linlithgow-hero.jpg",
-   "heroSrc": 59,
+   "heroSrc": 104,
    "body": [
     "hp-linlithgow-1.jpg",
     "hp-linlithgow-2.jpg",
@@ -94,7 +94,7 @@
   },
   "kilmacolm": {
    "hero": "hp-kilmacolm-hero.jpg",
-   "heroSrc": 139,
+   "heroSrc": 179,
    "body": [
     "hp-kilmacolm-1.jpg",
     "hp-kilmacolm-2.jpg",
@@ -117,7 +117,7 @@
   },
   "bridge-of-weir": {
    "hero": "hp-bridge-of-weir-hero.jpg",
-   "heroSrc": 198,
+   "heroSrc": 190,
    "body": [
     "hp-bridge-of-weir-1.jpg",
     "hp-bridge-of-weir-2.jpg",
@@ -140,7 +140,7 @@
   },
   "north-berwick": {
    "hero": "hp-north-berwick-hero.jpg",
-   "heroSrc": 106,
+   "heroSrc": 192,
    "body": [
     "hp-north-berwick-1.jpg",
     "hp-north-berwick-2.jpg",
@@ -163,7 +163,7 @@
   },
   "kirkintilloch": {
    "hero": "hp-kirkintilloch-hero.jpg",
-   "heroSrc": 105,
+   "heroSrc": 106,
    "body": [
     "hp-kirkintilloch-1.jpg",
     "hp-kirkintilloch-2.jpg",
@@ -186,7 +186,7 @@
   },
   "eaglesham": {
    "hero": "hp-eaglesham-hero.jpg",
-   "heroSrc": 76,
+   "heroSrc": 187,
    "body": [
     "hp-eaglesham-1.jpg",
     "hp-eaglesham-2.jpg",
@@ -209,7 +209,7 @@
   },
   "cambuslang": {
    "hero": "hp-cambuslang-hero.jpg",
-   "heroSrc": 144,
+   "heroSrc": 139,
    "body": [
     "hp-cambuslang-1.jpg",
     "hp-cambuslang-2.jpg",
@@ -234,7 +234,7 @@
  "solar": {
   "broomhill": {
    "hero": "sol-broomhill-hero.jpg",
-   "heroSrc": 5,
+   "heroSrc": 4,
    "body": [
     "sol-broomhill-1.jpg",
     "sol-broomhill-2.jpg",
@@ -267,7 +267,7 @@
   },
   "comely-bank": {
    "hero": "sol-comely-bank-hero.jpg",
-   "heroSrc": 39,
+   "heroSrc": 36,
    "body": [
     "sol-comely-bank-1.jpg",
     "sol-comely-bank-2.jpg",
@@ -300,7 +300,7 @@
   },
   "east-kilbride": {
    "hero": "sol-east-kilbride-hero.jpg",
-   "heroSrc": 6,
+   "heroSrc": 39,
    "body": [
     "sol-east-kilbride-1.jpg",
     "sol-east-kilbride-2.jpg",
@@ -333,7 +333,7 @@
   },
   "newlands": {
    "hero": "sol-newlands-hero.jpg",
-   "heroSrc": 66,
+   "heroSrc": 5,
    "body": [
     "sol-newlands-1.jpg",
     "sol-newlands-2.jpg",
@@ -366,7 +366,7 @@
   },
   "uddingston": {
    "hero": "sol-uddingston-hero.jpg",
-   "heroSrc": 37,
+   "heroSrc": 40,
    "body": [
     "sol-uddingston-1.jpg",
     "sol-uddingston-2.jpg",
@@ -399,7 +399,7 @@
   },
   "bridge-of-allan": {
    "hero": "sol-bridge-of-allan-hero.jpg",
-   "heroSrc": 90,
+   "heroSrc": 43,
    "body": [
     "sol-bridge-of-allan-1.jpg",
     "sol-bridge-of-allan-2.jpg",
@@ -432,7 +432,7 @@
   },
   "linlithgow": {
    "hero": "sol-linlithgow-hero.jpg",
-   "heroSrc": 36,
+   "heroSrc": 0,
    "body": [
     "sol-linlithgow-1.jpg",
     "sol-linlithgow-2.jpg",
@@ -465,7 +465,7 @@
   },
   "kilmacolm": {
    "hero": "sol-kilmacolm-hero.jpg",
-   "heroSrc": 1,
+   "heroSrc": 90,
    "body": [
     "sol-kilmacolm-1.jpg",
     "sol-kilmacolm-2.jpg",
@@ -498,7 +498,7 @@
   },
   "bridge-of-weir": {
    "hero": "sol-bridge-of-weir-hero.jpg",
-   "heroSrc": 38,
+   "heroSrc": 44,
    "body": [
     "sol-bridge-of-weir-1.jpg",
     "sol-bridge-of-weir-2.jpg",
@@ -531,7 +531,7 @@
   },
   "north-berwick": {
    "hero": "sol-north-berwick-hero.jpg",
-   "heroSrc": 122,
+   "heroSrc": 119,
    "body": [
     "sol-north-berwick-1.jpg",
     "sol-north-berwick-2.jpg",
